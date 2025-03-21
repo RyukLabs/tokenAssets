@@ -36,3 +36,4 @@ next-env.d.ts
 
 _config/_goAPI/vendor
 _config/_goAPI/assets
+config.bat
